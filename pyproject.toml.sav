@@ -1,0 +1,19 @@
+[tool]
+[tool.poetry]
+name = "p2ch10"
+version = "0.0.0"
+
+[tool.poetry.dependencies]
+python = "*"
+blosc = "<2,>=1.8.1"
+diskcache = "==4.1.0"
+h5py = "*"
+jupyter = "*"
+matplotlib = "*"
+numpy = "<=1.16.4"
+pillow = "*"
+scikit-image = ">=0.15.0"
+scipy = "*"
+simpleitk = "*"
+tensorflow = "<2,>=1.14"
+torch = "==1.4"

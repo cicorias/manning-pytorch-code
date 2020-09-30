@@ -1,3 +1,8 @@
 .DS_Store
 tools
 *_old
+
+.venv
+venv
+.env
+env
